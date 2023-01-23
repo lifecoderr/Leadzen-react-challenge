@@ -1,0 +1,18 @@
+
+.page-indicator{
+    display: flex;
+}
+.page-indicator > button{
+
+    outline: none;
+    background: transparent;
+    border: none;
+    cursor:pointer;
+
+}
+.page-indicator > *{
+    /* border: 1px solid black; */
+    padding: 0.5rem;
+    
+}
+
