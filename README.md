@@ -1,5 +1,8 @@
 # Leadzen-react-challenge
 
+## Deployed Site
+
+https://leadzen-react-challenge.netlify.app/
 
 ## Available Scripts
 
